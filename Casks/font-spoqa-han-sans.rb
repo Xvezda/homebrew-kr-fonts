@@ -4,7 +4,7 @@ cask "font-spoqa-han-sans" do
 
   url "https://github.com/spoqa/spoqa-han-sans/releases/download/v#{version}/SpoqaHanSansNeo_OTF_original.zip"
   name "Spoqa Han Sans Neo"
-  homepage "https://spoqa.github.io/spoqa-han-sans/"
+  homepage "http://www.spoqa-han-sans.com/"
 
   font "SpoqaHanSansNeo_OTF_original/SpoqaHanSansNeo-Bold.otf"
   font "SpoqaHanSansNeo_OTF_original/SpoqaHanSansNeo-Light.otf"
