@@ -6,9 +6,9 @@ cask "font-spoqa-han-sans" do
   name "Spoqa Han Sans Neo"
   homepage "https://spoqa.github.io/spoqa-han-sans/"
 
-  font "SpoqaHanSansNeo-Bold.otf"
-  font "SpoqaHanSansNeo-Light.otf"
-  font "SpoqaHanSansNeo-Medium.otf"
-  font "SpoqaHanSansNeo-Regular.otf"
-  font "SpoqaHanSansNeo-Thin.otf"
+  font "SpoqaHanSansNeo_OTF_original/SpoqaHanSansNeo-Bold.otf"
+  font "SpoqaHanSansNeo_OTF_original/SpoqaHanSansNeo-Light.otf"
+  font "SpoqaHanSansNeo_OTF_original/SpoqaHanSansNeo-Medium.otf"
+  font "SpoqaHanSansNeo_OTF_original/SpoqaHanSansNeo-Regular.otf"
+  font "SpoqaHanSansNeo_OTF_original/SpoqaHanSansNeo-Thin.otf"
 end
