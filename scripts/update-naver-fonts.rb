@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'net/http'
 
 # TODO: implement nanum & maru
