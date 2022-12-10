@@ -14,7 +14,7 @@ def generate_clova_casks
   font_filenames = font_uris.collect {|uri| uri.split('/')[-1]}
 
   def filename_to_template(filename)
-    cask_name = filename
+    cask_name = "font-" + filename
       .gsub(/[A-Z]/, '-\&')
       .gsub(/^-/, '')
       .downcase
