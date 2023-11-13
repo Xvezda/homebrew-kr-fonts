@@ -2,7 +2,7 @@ cask "font-d2coding-nerd" do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/kelvinks/D2Coding_Nerd.git"
+  url "https://github.com/kelvinks/D2Coding_Nerd.git",
     verified: "github.com/kelvinks/D2Coding_Nerd",
     branch: "master"
 
