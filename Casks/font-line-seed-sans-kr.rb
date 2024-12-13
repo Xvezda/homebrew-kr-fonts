@@ -5,7 +5,6 @@ cask "font-line-seed-sans-kr" do
   url "https://lin.ee/2WgFDD0/dmst"
   name "LINE Seed Sans KR"
   homepage "https://seed.line.me/index_kr.html"
-  license "OFL-1.1"
 
   font "LINE_SeedKR_#{version}/OTF/LINESeedKR-Bd.otf"
   font "LINE_SeedKR_#{version}/OTF/LINESeedKR-Rg.otf"
