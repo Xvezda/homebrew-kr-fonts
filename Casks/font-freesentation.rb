@@ -1,8 +1,8 @@
 cask "font-freesentation" do
-  version "2.000"
-  sha256 "277ebe5346d71d146910fee465930caba31e148644ace6913da120b84f06ee09"
+  version "2.001"
+  sha256 "73c859c944c97dac6392da5520a303414126b77ea522358e3ce513ef31aacd84"
 
-  url "https://github.com/Freesentation/freesentation/raw/refs/heads/main/Freesentation-v#{version}.zip"
+  url "https://github.com/Freesentation/freesentation/raw/refs/heads/main/Freesentation-#{version}.zip"
   name "Freesentation"
   homepage "https://freesentation.blog/"
 
