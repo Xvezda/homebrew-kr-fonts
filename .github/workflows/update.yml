@@ -26,6 +26,8 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Update casks (naver fonts)
       run: ruby scripts/update-naver-fonts.rb
+    - name: Update casks (cafe24 fonts)
+      run: ruby scripts/update-cafe24-fonts.rb
     - name: Check diffs
       id: check-diff
       run: |
