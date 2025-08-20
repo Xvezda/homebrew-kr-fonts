@@ -9,4 +9,3 @@ cask "font-7x12-nerd" do
   font "7X12NerdFont-Regular.ttf"
   font "7X12X3NerdFont-Regular.ttf"
 end
-
